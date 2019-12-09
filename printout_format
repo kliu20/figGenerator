@@ -1,0 +1,5 @@
+threadId, frequency, Controller.options.HOT_METHOD_TIME_MIN, Controller.options.HOT_METHOD_TIME_MAX, cmid, methodName, 0, cache_misses, cache_references, DRAM/uncoreGPU energy, CPU energy, Package energy, cache_misses/time, cache references/time, DRAM/uncoreGPU energy/time, CPU energy/time, package energy/time, time
+
+
+profileAttrs: cache_misses, cache_references, DRAM/uncoreGPU energy, CPU energy, Package energy
+
